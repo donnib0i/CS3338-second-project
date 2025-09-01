@@ -1,0 +1,52 @@
+commit a0a2e773b9ae46dbc5e8f025394e874cf920dd9f
+Merge: ce9dc5d 0361835
+Author: donnib0i <donnicode@gmail.com>
+Date:   Mon Sep 1 16:33:42 2025 -0700
+
+    Merge remote changes into local main branch
+
+commit ce9dc5da617201461ccefc75f4460fec00cd457b
+Merge: 5ea353a a6dd1dd
+Author: donnib0i <donnicode@gmail.com>
+Date:   Mon Sep 1 16:29:16 2025 -0700
+
+    Resolve merge conflict in index.html
+
+commit a6dd1dd1de69d34aad204d8c8d67cd6a0b8095ee
+Author: donnib0i <donnicode@gmail.com>
+Date:   Sun Aug 31 15:53:31 2025 -0700
+
+    Added favorite movie
+
+commit 5ea353a7982c86ddf4d69477912fb3beab6c3e25
+Author: donnib0i <donnicode@gmail.com>
+Date:   Sun Aug 31 15:50:08 2025 -0700
+
+    Added favorite food
+
+commit 8d056b1a00ce39ea284e23134bc6cc591a390142
+Author: donnib0i <donnicode@gmail.com>
+Date:   Sun Aug 31 15:38:13 2025 -0700
+
+    Added README section
+
+commit 0361835af90a14f50e6656d9c5b19b0cc543c03f
+Merge: 1d2bfc0 1a0e08b
+Author: donny <140486612+donnib0i@users.noreply.github.com>
+Date:   Sun Aug 31 15:20:25 2025 -0700
+
+    Merge pull request #1 from donnib0i/into-fill
+    
+    Filled in the blanks in index.html
+
+commit 1a0e08b41901cfb34c1c4c4d3f5f4d80aa297290
+Author: donnib0i <donnicode@gmail.com>
+Date:   Sun Aug 31 14:54:19 2025 -0700
+
+    Filled in the blanks in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
